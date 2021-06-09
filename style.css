@@ -16,7 +16,7 @@ h1{
 
 }
 h1:hover{
-  transform:skew(-45deg);
+  transform:skew(45deg);
 }
 .card{
   margin:0 auto;
