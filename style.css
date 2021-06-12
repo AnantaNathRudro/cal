@@ -6,7 +6,7 @@
 body{
   background-image:url('images/image2.jpeg');
   background-size: 1600px;
-  background-repeat:none;
+  background-repeat:no-repeat;
 
 }
 h1{
